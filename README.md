@@ -2,8 +2,8 @@
 
 > this demo demonstrates how keep-alive performs differently when turning it on/off.
 
-make request: http://localhost:3000/request
-inspect connections: http://localhost:3000/count
+- make request: http://localhost:3000/request
+- inspect connections: http://localhost:3000/count
 
 
 # Nitro Minimal Starter
