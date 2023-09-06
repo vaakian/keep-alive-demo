@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "prepare": "nitropack prepare",
+    "dev": "nitropack dev",
+    "build": "nitropack build",
+    "preview": "node .output/server/index.mjs"
+  },
+  "dependencies": {
+    "@types/node": "*",
+    "@types/react-dom": "^18.2.7",
+    "nitropack": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
